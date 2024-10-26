@@ -33,12 +33,12 @@ namespace TESTE_API_GOOGLE.Controllers
             {
                 Origin = new Waypoint
                 {
-                    Location = new Location { LatLng = new LatLng { Latitude = 37.419734, Longitude = -122.0827784 } }
+                    Location = new Location { LatLng = new LatLng { Latitude = -23.502852, Longitude = -46.578407 } }
 
                 },
                 Destination = new Waypoint
                 {
-                    Location = new Location { LatLng = new LatLng { Latitude = 37.417670, Longitude = -122.079595 } }
+                    Location = new Location { LatLng = new LatLng { Latitude = -23.519860, Longitude = -46.596480 } }
                 },
                 TravelMode = RouteTravelMode.Transit,
                 TransitPreferences = new TransitPreferences
@@ -54,6 +54,7 @@ namespace TESTE_API_GOOGLE.Controllers
 
            // var content = new StringContent(JsonConvert.SerializeObject(request));
             ComputeRoutesResponse response = client.ComputeRoutes(request, callSettings);
+            
             Console.WriteLine(response);
 
         }

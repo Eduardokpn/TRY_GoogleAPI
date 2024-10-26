@@ -49,3 +49,4 @@ C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.genruntimeconfig.cache
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0\ref\TESTE API GOOGLE.dll
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\bin\Debug\net8.0\humberto-transit-api-38ef852b5f99.json
+C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.sourcelink.json
