@@ -1,0 +1,6 @@
+@TESTE_API_GOOGLE_HostAddress = http://localhost:5007
+
+GET {{TESTE_API_GOOGLE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

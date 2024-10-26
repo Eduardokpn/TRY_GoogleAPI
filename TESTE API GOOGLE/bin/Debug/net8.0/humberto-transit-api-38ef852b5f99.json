@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "humberto-transit-api",
+  "private_key_id": "38ef852b5f99a54244a0064dbd52b485bd31a3f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGh6qpBxqZdB/2\nOZpJEyQFxIa6SVRNi2isTcvRHbBLeMPCKI9U00mbw39bHs72BRE2GU7wBD2s0laS\n5/n18OKM/UvSOOk0ZhbXlknA7jTS2MBrpVDMC9Qxu6CvNXE/Lzz2IEBWztfCHq/C\njHXWS2+oUMiSNPyimUbJ8fk85fq1ErNZwFqFTs7DZDbyCJBVfRHLXCuQsSm5dEAS\n4dghkjpzP0lQ02Ul3vqUR9zMmQ5bxC201leSVfJuu4hFU7TpJzwKZQHhEF+nAOQg\nKXma0i7jofVsxHtWYonfJbqS3YDqmd5xXG0Q5zst0tsfOveKd6tDiGgkr8Cxwxri\nAA2Flmk1AgMBAAECggEAAzp8ED0dFd9BUM39gBA3Xv+j6D4eiJdKh7jJJniq4ANR\n/aOOtySrdwS+GrN8zpvk/IH7WmRbQ2b1QPTUSAdXi87nr3687hz15KIdR22oPsCH\nGokI8BSGKhvgwFCoa4xfW6pJGZBKCm5Y0dtaZDZ8VZqgtF33uMYw1EJi2PZtdgnV\nNcCL0sLkFoqn9zCF+lM9FP6oqzCo0xDhAQ36+SgnwiqWFmzmSw/heChRGIRwl88Y\nrXG5sKGRXlP4JMqrvDgfwe5KWEw4qnTbUkAuo7QY6YrfE6rLC4f9FoJRwKot5fmJ\nlFGA4TzS+/IAs9FHKeC+0A88vnKyXkukErDCWvpZuQKBgQDQ0n9mpIw3vaA4iXVB\nIcdkG/x4YWUZHJ9SrJstQD+a9O3PHOhzENwAMYGeVBsLkFrLvqHVPKxaXvKrYqIY\n0JM5jr7H0SNROafiYUA9Rx+WVb68lxZWxlShHQuFyrCidBOqWhkcpoL0q1jUtxJs\nZK9aQ2jF75DxwTbtcXmzj9BHXQKBgQDzYeZvz4itI0CZYPOXil9JV8K+7lzQ1/5n\n+xZweh+KGQxqxEjvFrYavpWpV6KtCopar4w2WACrPj5UoDN+snbUh8SqsqZiZYkZ\n+xT6xy4YIV3COTeMy2CSWDGQPo2oMwqqER4nlSjUxGqdx7SHRE+Bv8vZSlUy/Mu+\nYnP28CPDuQKBgQDLuWDjgYruYohqP+ht14eQKiGAS/x2qE7jOFPXrMOg6G0NTzWT\n9JG9eo7rKUCNYpLCDUQTJbM8Iz96ZqqfrPTFBXcot+dNugMIvzoNzlKJtzNzB6+a\njrlHyW9RYrI6eyYoXuf65JQEIRpzw/ssVnoghH02BgeRY5+zvK4vuRFIXQKBgBbb\ni/PWTuTL2cZN57LEyRwvRNf/tPHcR0VmvH3Fym6C2bqxQpRJ0sKCQbYMx/dudP39\nXLLB4xYyG1KBVTTB+A0PzzWk36GAHbc18It452hWweJ60y/C7gfwhn8gkNdKK+c7\nAlT/Wj1ZURYOanMFxF3QMInwxD2spkn0HyYC+ajpAoGBAJCNivTrNjVUAg1hSort\nTVbepB6+yl6+6zgMqCVdYMVEuXzSXiYsVlTIId1PFq1wrLubKxQ1bN/NQN9jwftI\nYaecgldYAe28WpnwGYZU9gMQsR0iw9GSDekHR9I/udVFkr2rQiwRLLIMue0wUgoT\nFItHmS2W2Dp85NM703yFfXUV\n-----END PRIVATE KEY-----\n",
+  "client_email": "humberto-transit-api@appspot.gserviceaccount.com",
+  "client_id": "113868554471463182223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/humberto-transit-api%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
