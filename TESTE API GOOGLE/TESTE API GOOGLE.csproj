@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Maps.Routing.V2" Version="1.0.0-beta14" />
+    <PackageReference Include="LocalStorage" Version="2.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 

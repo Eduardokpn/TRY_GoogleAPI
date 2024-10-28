@@ -9,11 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TESTE_API_GOOGLE
 build_property.RootNamespace = TESTE_API_GOOGLE
-build_property.ProjectDir = C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\
+build_property.ProjectDir = D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE
+build_property.MSBuildProjectDirectory = D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/calcularRota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXGNhbGN1bGFyUm90YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/ExibirRotasViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXEV4aWJpclJvdGFzVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/GetLocationViewModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXEdldExvY2F0aW9uVmlld01vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

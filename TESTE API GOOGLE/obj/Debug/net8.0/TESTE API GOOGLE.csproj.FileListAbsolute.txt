@@ -50,3 +50,58 @@ C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0\ref\TESTE API GOOGLE.dll
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\bin\Debug\net8.0\humberto-transit-api-38ef852b5f99.json
 C:\Users\eduar\Documents\ETEC\TESTE API GOOGLE\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.sourcelink.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\appsettings.Development.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\appsettings.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\humberto-transit-api-38ef852b5f99.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.exe
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.deps.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.runtimeconfig.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.pdb
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Apis.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Geo.Type.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Maps.Routing.V2.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Google.Protobuf.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Grpc.Auth.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\System.CodeDom.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\System.Management.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.csproj.AssemblyReference.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.AssemblyInfoInputs.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.AssemblyInfo.cs
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.csproj.CoreCompileInputs.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.MvcApplicationPartsAssemblyInfo.cs
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.MvcApplicationPartsAssemblyInfo.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.sourcelink.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets.build.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets.development.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets\msbuild.TESTE API GOOGLE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets\msbuild.build.TESTE API GOOGLE.props
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TESTE API GOOGLE.props
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TESTE API GOOGLE.props
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\scopedcss\bundle\TESTE API GOOGLE.styles.css
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE AP.1DDCB020.Up2Date
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\refint\TESTE API GOOGLE.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.pdb
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.genruntimeconfig.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\ref\TESTE API GOOGLE.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.RazorAssemblyInfo.cache
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.RazorAssemblyInfo.cs
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\LocalStorage.dll

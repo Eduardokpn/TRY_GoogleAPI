@@ -9,6 +9,7 @@
       "TESTE API GOOGLE/1.0.0": {
         "dependencies": {
           "Google.Maps.Routing.V2": "1.0.0-beta14",
+          "LocalStorage": "2.1.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -161,6 +162,17 @@
           "lib/net8.0/Grpc.Net.Common.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.60.0.0"
+          }
+        }
+      },
+      "LocalStorage/2.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/LocalStorage.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
           }
         }
       },
@@ -354,6 +366,13 @@
       "sha512": "sha512-Y/917aplgD1RA0q1cd9WpnMGyl9Luu3WZl6ZMpPvNQwg2TNw/3uXUDSriDBybeCtxnKUCtxUcWO3WsVkhM1DcA==",
       "path": "grpc.net.common/2.60.0",
       "hashPath": "grpc.net.common.2.60.0.nupkg.sha512"
+    },
+    "LocalStorage/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2FYxEN8aQT6TxzsSsD86XLPglqEPqhdBpBzmcr9BhPgcA7gXjaVXUSaPM1FB9dI70j3XRAA4Kjpl0QaPxK1IkQ==",
+      "path": "localstorage/2.1.0",
+      "hashPath": "localstorage.2.1.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",
