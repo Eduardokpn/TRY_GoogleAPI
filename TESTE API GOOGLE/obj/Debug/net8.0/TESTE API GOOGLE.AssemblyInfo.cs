@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TESTE API GOOGLE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f0f6f12b337d35c4caf09a4357801ab3aa28a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f460febd6d3144ba74b78ae92bec49229f6f9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TESTE API GOOGLE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TESTE API GOOGLE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

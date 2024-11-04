@@ -17,15 +17,3 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE
 build_property._RazorSourceGeneratorDebug = 
-
-[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/calcularRota.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXGNhbGN1bGFyUm90YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/ExibirRotasViewModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXEV4aWJpclJvdGFzVmlld01vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/CLOUD ROUTES/TRY_GoogleAPI/TESTE API GOOGLE/ViewModel/GetLocationViewModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld01vZGVsXEdldExvY2F0aW9uVmlld01vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 

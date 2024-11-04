@@ -416,6 +416,22 @@
             "rid": "win"
           }
         }
+      },
+      "HumbertoMVC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "newtonsoft.json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/HumbertoMVC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HumbertoMVC.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -1283,11 +1299,17 @@
         "system.management.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "HumbertoMVC/1.0.0": {
+      "type": "project",
+      "path": "../../../TCC/Humberto-APP/HumbertoMVC.csproj",
+      "msbuildProject": "../../../TCC/Humberto-APP/HumbertoMVC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Google.Maps.Routing.V2 >= 1.0.0-beta14",
+      "HumbertoMVC >= 1.0.0",
       "LocalStorage >= 2.1.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1318,18 +1340,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\TCC\\Humberto-APP\\HumbertoMVC.csproj": {
+              "projectPath": "D:\\TCC\\Humberto-APP\\HumbertoMVC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

@@ -9,6 +9,7 @@
       "TESTE API GOOGLE/1.0.0": {
         "dependencies": {
           "Google.Maps.Routing.V2": "1.0.0-beta14",
+          "HumbertoMVC": "1.0.0",
           "LocalStorage": "2.1.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -267,6 +268,14 @@
             "fileVersion": "7.0.723.27404"
           }
         }
+      },
+      "HumbertoMVC/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "HumbertoMVC.dll": {}
+        }
       }
     }
   },
@@ -457,6 +466,11 @@
       "sha512": "sha512-/qEUN91mP/MUQmJnM5y5BdT7ZoPuVrtxnFlbJ8a3kBJGhe2wCzBfnPFtK2wTtEEcf3DMGR9J00GZZfg6HRI6yA==",
       "path": "system.management/7.0.2",
       "hashPath": "system.management.7.0.2.nupkg.sha512"
+    },
+    "HumbertoMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

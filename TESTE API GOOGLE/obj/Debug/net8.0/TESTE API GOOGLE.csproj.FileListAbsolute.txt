@@ -105,3 +105,10 @@ D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\ref\TESTE API GO
 D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.RazorAssemblyInfo.cache
 D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\obj\Debug\net8.0\TESTE API GOOGLE.RazorAssemblyInfo.cs
 D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\LocalStorage.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.deps.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.runtimeconfig.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.staticwebassets.runtime.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.exe
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\TESTE API GOOGLE.staticwebassets.runtime.json
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.dll
+D:\CLOUD ROUTES\TRY_GoogleAPI\TESTE API GOOGLE\bin\Debug\net8.0\HumbertoMVC.pdb
